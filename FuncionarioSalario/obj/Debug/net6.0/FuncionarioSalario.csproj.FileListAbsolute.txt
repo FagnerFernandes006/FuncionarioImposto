@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\bin\Debug\net6.0\FuncionarioSalario.exe
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\bin\Debug\net6.0\FuncionarioSalario.deps.json
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\bin\Debug\net6.0\FuncionarioSalario.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\bin\Debug\net6.0\FuncionarioSalario.dll
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\bin\Debug\net6.0\FuncionarioSalario.pdb
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.dll
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\refint\FuncionarioSalario.dll
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.pdb
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\FuncionarioSalario.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\FuncionarioSalario\FuncionarioSalario\obj\Debug\net6.0\ref\FuncionarioSalario.dll
